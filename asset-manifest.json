@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/doodle-disco-app-002/static/css/main.edb8bca8.chunk.css",
+    "main.css": "/doodle-disco-app-002/static/css/main.950d1b37.chunk.css",
     "main.js": "/doodle-disco-app-002/static/js/main.287f9f8d.chunk.js",
     "main.js.map": "/doodle-disco-app-002/static/js/main.287f9f8d.chunk.js.map",
     "runtime~main.js": "/doodle-disco-app-002/static/js/runtime~main.e127b512.js",
@@ -11,10 +11,10 @@
     "static/js/3.487dec67.chunk.js": "/doodle-disco-app-002/static/js/3.487dec67.chunk.js",
     "static/js/3.487dec67.chunk.js.map": "/doodle-disco-app-002/static/js/3.487dec67.chunk.js.map",
     "index.html": "/doodle-disco-app-002/index.html",
-    "precache-manifest.08ee0b4913e2e74f112a8efc72bb99bd.js": "/doodle-disco-app-002/precache-manifest.08ee0b4913e2e74f112a8efc72bb99bd.js",
+    "precache-manifest.9d7e186e639b9e834203a91759ecb0cf.js": "/doodle-disco-app-002/precache-manifest.9d7e186e639b9e834203a91759ecb0cf.js",
     "service-worker.js": "/doodle-disco-app-002/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css.map",
-    "static/css/main.edb8bca8.chunk.css.map": "/doodle-disco-app-002/static/css/main.edb8bca8.chunk.css.map",
+    "static/css/main.950d1b37.chunk.css.map": "/doodle-disco-app-002/static/css/main.950d1b37.chunk.css.map",
     "static/media/ddisco_b_001_1.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_1.ed9d9c7f.jpg",
     "static/media/ddisco_b_001_2.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_2.8a65b207.jpg",
     "static/media/ddisco_b_001_3.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_3.814cd6f3.jpg",
