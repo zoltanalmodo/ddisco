@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/doodle-disco-app-002/precache-manifest.64f7b9a3ad0c0de134a6137bf27e730e.js"
+  "/doodle-disco-app-002/precache-manifest.884498cecf775b645deef1a15365e1bf.js"
 );
 
 self.addEventListener('message', (event) => {
