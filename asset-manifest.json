@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/doodle-disco-app-002/static/css/main.231329bc.chunk.css",
-    "main.js": "/doodle-disco-app-002/static/js/main.38451264.chunk.js",
-    "main.js.map": "/doodle-disco-app-002/static/js/main.38451264.chunk.js.map",
+    "main.js": "/doodle-disco-app-002/static/js/main.0eddfaa0.chunk.js",
+    "main.js.map": "/doodle-disco-app-002/static/js/main.0eddfaa0.chunk.js.map",
     "runtime~main.js": "/doodle-disco-app-002/static/js/runtime~main.e127b512.js",
     "runtime~main.js.map": "/doodle-disco-app-002/static/js/runtime~main.e127b512.js.map",
     "static/css/2.55d5623b.chunk.css": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.487dec67.chunk.js": "/doodle-disco-app-002/static/js/3.487dec67.chunk.js",
     "static/js/3.487dec67.chunk.js.map": "/doodle-disco-app-002/static/js/3.487dec67.chunk.js.map",
     "index.html": "/doodle-disco-app-002/index.html",
-    "precache-manifest.913d8b258ad05b53cdfb56ef0c8ce9e3.js": "/doodle-disco-app-002/precache-manifest.913d8b258ad05b53cdfb56ef0c8ce9e3.js",
+    "precache-manifest.faf9e11db35b006c8ed0d3a23038bce8.js": "/doodle-disco-app-002/precache-manifest.faf9e11db35b006c8ed0d3a23038bce8.js",
     "service-worker.js": "/doodle-disco-app-002/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css.map",
     "static/css/main.231329bc.chunk.css.map": "/doodle-disco-app-002/static/css/main.231329bc.chunk.css.map",
