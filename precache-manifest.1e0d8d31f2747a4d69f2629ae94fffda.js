@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64eec2e0f3da94c58b096ae8d672282a",
+    "revision": "86abe62019bd7cf74fc41bc0c2444715",
     "url": "/doodle-disco-app-002/index.html"
   },
   {
-    "revision": "a84527fda7e785e88e9a",
+    "revision": "02be726fc74a44a22c7e",
     "url": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css"
   },
   {
-    "revision": "ce98906754e8b83bbdc9",
-    "url": "/doodle-disco-app-002/static/css/main.ab05ccf8.chunk.css"
+    "revision": "ea2e9c087a987037744d",
+    "url": "/doodle-disco-app-002/static/css/main.e5e09553.chunk.css"
   },
   {
-    "revision": "a84527fda7e785e88e9a",
-    "url": "/doodle-disco-app-002/static/js/2.ae40515e.chunk.js"
+    "revision": "02be726fc74a44a22c7e",
+    "url": "/doodle-disco-app-002/static/js/2.888c4dbd.chunk.js"
   },
   {
     "revision": "5e843203e1a037491725d2f254cd12f4",
-    "url": "/doodle-disco-app-002/static/js/2.ae40515e.chunk.js.LICENSE.txt"
+    "url": "/doodle-disco-app-002/static/js/2.888c4dbd.chunk.js.LICENSE.txt"
   },
   {
     "revision": "90aaa35201d73449c5f1",
     "url": "/doodle-disco-app-002/static/js/3.213fc9da.chunk.js"
   },
   {
-    "revision": "ce98906754e8b83bbdc9",
-    "url": "/doodle-disco-app-002/static/js/main.59002d44.chunk.js"
+    "revision": "ea2e9c087a987037744d",
+    "url": "/doodle-disco-app-002/static/js/main.c7f05b55.chunk.js"
   },
   {
     "revision": "518677116d9aa764afb5",

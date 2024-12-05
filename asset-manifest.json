@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/doodle-disco-app-002/static/css/main.ab05ccf8.chunk.css",
-    "main.js": "/doodle-disco-app-002/static/js/main.59002d44.chunk.js",
-    "main.js.map": "/doodle-disco-app-002/static/js/main.59002d44.chunk.js.map",
+    "main.css": "/doodle-disco-app-002/static/css/main.e5e09553.chunk.css",
+    "main.js": "/doodle-disco-app-002/static/js/main.c7f05b55.chunk.js",
+    "main.js.map": "/doodle-disco-app-002/static/js/main.c7f05b55.chunk.js.map",
     "runtime-main.js": "/doodle-disco-app-002/static/js/runtime-main.253823d0.js",
     "runtime-main.js.map": "/doodle-disco-app-002/static/js/runtime-main.253823d0.js.map",
     "static/css/2.55d5623b.chunk.css": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css",
-    "static/js/2.ae40515e.chunk.js": "/doodle-disco-app-002/static/js/2.ae40515e.chunk.js",
-    "static/js/2.ae40515e.chunk.js.map": "/doodle-disco-app-002/static/js/2.ae40515e.chunk.js.map",
+    "static/js/2.888c4dbd.chunk.js": "/doodle-disco-app-002/static/js/2.888c4dbd.chunk.js",
+    "static/js/2.888c4dbd.chunk.js.map": "/doodle-disco-app-002/static/js/2.888c4dbd.chunk.js.map",
     "static/js/3.213fc9da.chunk.js": "/doodle-disco-app-002/static/js/3.213fc9da.chunk.js",
     "static/js/3.213fc9da.chunk.js.map": "/doodle-disco-app-002/static/js/3.213fc9da.chunk.js.map",
     "index.html": "/doodle-disco-app-002/index.html",
-    "precache-manifest.ce729e47edca06e77145c9ab31b7700d.js": "/doodle-disco-app-002/precache-manifest.ce729e47edca06e77145c9ab31b7700d.js",
+    "precache-manifest.1e0d8d31f2747a4d69f2629ae94fffda.js": "/doodle-disco-app-002/precache-manifest.1e0d8d31f2747a4d69f2629ae94fffda.js",
     "service-worker.js": "/doodle-disco-app-002/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css.map",
-    "static/css/main.ab05ccf8.chunk.css.map": "/doodle-disco-app-002/static/css/main.ab05ccf8.chunk.css.map",
-    "static/js/2.ae40515e.chunk.js.LICENSE.txt": "/doodle-disco-app-002/static/js/2.ae40515e.chunk.js.LICENSE.txt",
+    "static/css/main.e5e09553.chunk.css.map": "/doodle-disco-app-002/static/css/main.e5e09553.chunk.css.map",
+    "static/js/2.888c4dbd.chunk.js.LICENSE.txt": "/doodle-disco-app-002/static/js/2.888c4dbd.chunk.js.LICENSE.txt",
     "static/media/ddisco_b_001_1.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_1.ed9d9c7f.jpg",
     "static/media/ddisco_b_001_2.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_2.8a65b207.jpg",
     "static/media/ddisco_b_001_3.jpg": "/doodle-disco-app-002/static/media/ddisco_b_001_3.814cd6f3.jpg",
@@ -128,8 +128,8 @@
   "entrypoints": [
     "static/js/runtime-main.253823d0.js",
     "static/css/2.55d5623b.chunk.css",
-    "static/js/2.ae40515e.chunk.js",
-    "static/css/main.ab05ccf8.chunk.css",
-    "static/js/main.59002d44.chunk.js"
+    "static/js/2.888c4dbd.chunk.js",
+    "static/css/main.e5e09553.chunk.css",
+    "static/js/main.c7f05b55.chunk.js"
   ]
 }
