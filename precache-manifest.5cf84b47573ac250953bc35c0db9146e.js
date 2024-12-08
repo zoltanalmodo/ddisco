@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "291b99650808e68fd991fe3b8c40b08e",
+    "revision": "dfca001fb5cb7ad5b410cb8aa55d90d6",
     "url": "/doodle-disco-app-002/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doodle-disco-app-002/static/css/2.55d5623b.chunk.css"
   },
   {
-    "revision": "e20d2dd65316b4e85397",
-    "url": "/doodle-disco-app-002/static/css/main.739f7f47.chunk.css"
+    "revision": "14444b8c1c4df3c2153c",
+    "url": "/doodle-disco-app-002/static/css/main.a9cfe31d.chunk.css"
   },
   {
     "revision": "02be726fc74a44a22c7e",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doodle-disco-app-002/static/js/3.213fc9da.chunk.js"
   },
   {
-    "revision": "e20d2dd65316b4e85397",
+    "revision": "14444b8c1c4df3c2153c",
     "url": "/doodle-disco-app-002/static/js/main.c7f05b55.chunk.js"
   },
   {
