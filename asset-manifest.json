@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/deedisco/static/css/main.20eb85d1.chunk.css",
-    "main.js": "/deedisco/static/js/main.fb28af85.chunk.js",
-    "main.js.map": "/deedisco/static/js/main.fb28af85.chunk.js.map",
+    "main.js": "/deedisco/static/js/main.895b6c96.chunk.js",
+    "main.js.map": "/deedisco/static/js/main.895b6c96.chunk.js.map",
     "runtime-main.js": "/deedisco/static/js/runtime-main.cb9bb366.js",
     "runtime-main.js.map": "/deedisco/static/js/runtime-main.cb9bb366.js.map",
     "static/css/2.55d5623b.chunk.css": "/deedisco/static/css/2.55d5623b.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.62b3fca3.chunk.js": "/deedisco/static/js/3.62b3fca3.chunk.js",
     "static/js/3.62b3fca3.chunk.js.map": "/deedisco/static/js/3.62b3fca3.chunk.js.map",
     "index.html": "/deedisco/index.html",
-    "precache-manifest.e040eca5f6170be012566dc1bd13723b.js": "/deedisco/precache-manifest.e040eca5f6170be012566dc1bd13723b.js",
+    "precache-manifest.118888acad66692958fa0a1c3da4efca.js": "/deedisco/precache-manifest.118888acad66692958fa0a1c3da4efca.js",
     "service-worker.js": "/deedisco/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/deedisco/static/css/2.55d5623b.chunk.css.map",
     "static/css/main.20eb85d1.chunk.css.map": "/deedisco/static/css/main.20eb85d1.chunk.css.map",
@@ -130,6 +130,6 @@
     "static/css/2.55d5623b.chunk.css",
     "static/js/2.9508c0ce.chunk.js",
     "static/css/main.20eb85d1.chunk.css",
-    "static/js/main.fb28af85.chunk.js"
+    "static/js/main.895b6c96.chunk.js"
   ]
 }

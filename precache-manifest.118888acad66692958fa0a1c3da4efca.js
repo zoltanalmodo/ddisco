@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07cbde8083a4728609006cbb1fe384db",
+    "revision": "570c15685729907520940056211b04e4",
     "url": "/deedisco/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deedisco/static/css/2.55d5623b.chunk.css"
   },
   {
-    "revision": "9af92a39a31af63d4d16",
+    "revision": "df3ff09eae35189b8073",
     "url": "/deedisco/static/css/main.20eb85d1.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deedisco/static/js/3.62b3fca3.chunk.js"
   },
   {
-    "revision": "9af92a39a31af63d4d16",
-    "url": "/deedisco/static/js/main.fb28af85.chunk.js"
+    "revision": "df3ff09eae35189b8073",
+    "url": "/deedisco/static/js/main.895b6c96.chunk.js"
   },
   {
     "revision": "90d5d65169db6954798a",
