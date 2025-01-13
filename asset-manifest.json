@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ddisco/static/css/main.8b0188c2.chunk.css",
-    "main.js": "/ddisco/static/js/main.042a931c.chunk.js",
-    "main.js.map": "/ddisco/static/js/main.042a931c.chunk.js.map",
+    "main.css": "/ddisco/static/css/main.58f48cda.chunk.css",
+    "main.js": "/ddisco/static/js/main.cf18d62f.chunk.js",
+    "main.js.map": "/ddisco/static/js/main.cf18d62f.chunk.js.map",
     "runtime-main.js": "/ddisco/static/js/runtime-main.b81c3526.js",
     "runtime-main.js.map": "/ddisco/static/js/runtime-main.b81c3526.js.map",
     "static/css/2.55d5623b.chunk.css": "/ddisco/static/css/2.55d5623b.chunk.css",
@@ -11,10 +11,10 @@
     "static/js/3.fe3b4cb1.chunk.js": "/ddisco/static/js/3.fe3b4cb1.chunk.js",
     "static/js/3.fe3b4cb1.chunk.js.map": "/ddisco/static/js/3.fe3b4cb1.chunk.js.map",
     "index.html": "/ddisco/index.html",
-    "precache-manifest.5a38cd0da64b5552dd2f5fcc1ee7ed6e.js": "/ddisco/precache-manifest.5a38cd0da64b5552dd2f5fcc1ee7ed6e.js",
+    "precache-manifest.1d5a1087023497a80cd6023ecb8ba6e8.js": "/ddisco/precache-manifest.1d5a1087023497a80cd6023ecb8ba6e8.js",
     "service-worker.js": "/ddisco/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/ddisco/static/css/2.55d5623b.chunk.css.map",
-    "static/css/main.8b0188c2.chunk.css.map": "/ddisco/static/css/main.8b0188c2.chunk.css.map",
+    "static/css/main.58f48cda.chunk.css.map": "/ddisco/static/css/main.58f48cda.chunk.css.map",
     "static/js/2.65d28150.chunk.js.LICENSE.txt": "/ddisco/static/js/2.65d28150.chunk.js.LICENSE.txt",
     "static/media/ddisco_b_001_1.jpg": "/ddisco/static/media/ddisco_b_001_1.ed9d9c7f.jpg",
     "static/media/ddisco_b_001_2.jpg": "/ddisco/static/media/ddisco_b_001_2.8a65b207.jpg",
@@ -129,7 +129,7 @@
     "static/js/runtime-main.b81c3526.js",
     "static/css/2.55d5623b.chunk.css",
     "static/js/2.65d28150.chunk.js",
-    "static/css/main.8b0188c2.chunk.css",
-    "static/js/main.042a931c.chunk.js"
+    "static/css/main.58f48cda.chunk.css",
+    "static/js/main.cf18d62f.chunk.js"
   ]
 }
