@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ddisco/static/css/main.6476ed62.chunk.css",
+    "main.css": "/ddisco/static/css/main.ddfb9a27.chunk.css",
     "main.js": "/ddisco/static/js/main.8662657f.chunk.js",
     "main.js.map": "/ddisco/static/js/main.8662657f.chunk.js.map",
     "runtime-main.js": "/ddisco/static/js/runtime-main.b81c3526.js",
@@ -11,10 +11,10 @@
     "static/js/3.fe3b4cb1.chunk.js": "/ddisco/static/js/3.fe3b4cb1.chunk.js",
     "static/js/3.fe3b4cb1.chunk.js.map": "/ddisco/static/js/3.fe3b4cb1.chunk.js.map",
     "index.html": "/ddisco/index.html",
-    "precache-manifest.0f40436f3a1dcc99aeb79974377bb982.js": "/ddisco/precache-manifest.0f40436f3a1dcc99aeb79974377bb982.js",
+    "precache-manifest.6e4e9716cd9caba3aa72175f07c36eda.js": "/ddisco/precache-manifest.6e4e9716cd9caba3aa72175f07c36eda.js",
     "service-worker.js": "/ddisco/service-worker.js",
     "static/css/2.55d5623b.chunk.css.map": "/ddisco/static/css/2.55d5623b.chunk.css.map",
-    "static/css/main.6476ed62.chunk.css.map": "/ddisco/static/css/main.6476ed62.chunk.css.map",
+    "static/css/main.ddfb9a27.chunk.css.map": "/ddisco/static/css/main.ddfb9a27.chunk.css.map",
     "static/js/2.65d28150.chunk.js.LICENSE.txt": "/ddisco/static/js/2.65d28150.chunk.js.LICENSE.txt",
     "static/media/ddisco_b_001_1.jpg": "/ddisco/static/media/ddisco_b_001_1.ed9d9c7f.jpg",
     "static/media/ddisco_b_001_2.jpg": "/ddisco/static/media/ddisco_b_001_2.8a65b207.jpg",
@@ -129,7 +129,7 @@
     "static/js/runtime-main.b81c3526.js",
     "static/css/2.55d5623b.chunk.css",
     "static/js/2.65d28150.chunk.js",
-    "static/css/main.6476ed62.chunk.css",
+    "static/css/main.ddfb9a27.chunk.css",
     "static/js/main.8662657f.chunk.js"
   ]
 }
