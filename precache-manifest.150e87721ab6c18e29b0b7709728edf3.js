@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "641edeac0e41b4bc87825c4902409fe8",
+    "revision": "5962f41db6e44d3d96604d83cd404ec7",
     "url": "/ddisco/index.html"
   },
   {
-    "revision": "1eb8d2290745f8c31d93",
+    "revision": "3ba2fa55e6341e0f80f7",
     "url": "/ddisco/static/css/2.a10018f7.chunk.css"
   },
   {
-    "revision": "3bb3928ebc691d5309af",
-    "url": "/ddisco/static/css/main.5290ae74.chunk.css"
+    "revision": "518c07bf16b6ab86d9c9",
+    "url": "/ddisco/static/css/main.58f48cda.chunk.css"
   },
   {
-    "revision": "1eb8d2290745f8c31d93",
-    "url": "/ddisco/static/js/2.e1acf7ff.chunk.js"
+    "revision": "3ba2fa55e6341e0f80f7",
+    "url": "/ddisco/static/js/2.737240c4.chunk.js"
   },
   {
     "revision": "2aa2de25c492e48ff1984943803c47f7",
-    "url": "/ddisco/static/js/2.e1acf7ff.chunk.js.LICENSE.txt"
+    "url": "/ddisco/static/js/2.737240c4.chunk.js.LICENSE.txt"
   },
   {
     "revision": "40307217ad1669a77220",
     "url": "/ddisco/static/js/3.9f5937d9.chunk.js"
   },
   {
-    "revision": "3bb3928ebc691d5309af",
-    "url": "/ddisco/static/js/main.722d034b.chunk.js"
+    "revision": "518c07bf16b6ab86d9c9",
+    "url": "/ddisco/static/js/main.39ba1165.chunk.js"
   },
   {
     "revision": "c5f040009732d063d65b",
