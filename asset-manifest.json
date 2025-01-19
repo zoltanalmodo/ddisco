@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/ddisco/static/css/main.58f48cda.chunk.css",
-    "main.js": "/ddisco/static/js/main.39ba1165.chunk.js",
-    "main.js.map": "/ddisco/static/js/main.39ba1165.chunk.js.map",
+    "main.css": "/ddisco/static/css/main.5290ae74.chunk.css",
+    "main.js": "/ddisco/static/js/main.722d034b.chunk.js",
+    "main.js.map": "/ddisco/static/js/main.722d034b.chunk.js.map",
     "runtime-main.js": "/ddisco/static/js/runtime-main.bbf2b7c5.js",
     "runtime-main.js.map": "/ddisco/static/js/runtime-main.bbf2b7c5.js.map",
     "static/css/2.a10018f7.chunk.css": "/ddisco/static/css/2.a10018f7.chunk.css",
-    "static/js/2.737240c4.chunk.js": "/ddisco/static/js/2.737240c4.chunk.js",
-    "static/js/2.737240c4.chunk.js.map": "/ddisco/static/js/2.737240c4.chunk.js.map",
+    "static/js/2.e1acf7ff.chunk.js": "/ddisco/static/js/2.e1acf7ff.chunk.js",
+    "static/js/2.e1acf7ff.chunk.js.map": "/ddisco/static/js/2.e1acf7ff.chunk.js.map",
     "static/js/3.9f5937d9.chunk.js": "/ddisco/static/js/3.9f5937d9.chunk.js",
     "static/js/3.9f5937d9.chunk.js.map": "/ddisco/static/js/3.9f5937d9.chunk.js.map",
     "index.html": "/ddisco/index.html",
-    "precache-manifest.150e87721ab6c18e29b0b7709728edf3.js": "/ddisco/precache-manifest.150e87721ab6c18e29b0b7709728edf3.js",
+    "precache-manifest.44b75d0940822216724ab30e82b7ff90.js": "/ddisco/precache-manifest.44b75d0940822216724ab30e82b7ff90.js",
     "service-worker.js": "/ddisco/service-worker.js",
     "static/css/2.a10018f7.chunk.css.map": "/ddisco/static/css/2.a10018f7.chunk.css.map",
-    "static/css/main.58f48cda.chunk.css.map": "/ddisco/static/css/main.58f48cda.chunk.css.map",
-    "static/js/2.737240c4.chunk.js.LICENSE.txt": "/ddisco/static/js/2.737240c4.chunk.js.LICENSE.txt",
+    "static/css/main.5290ae74.chunk.css.map": "/ddisco/static/css/main.5290ae74.chunk.css.map",
+    "static/js/2.e1acf7ff.chunk.js.LICENSE.txt": "/ddisco/static/js/2.e1acf7ff.chunk.js.LICENSE.txt",
     "static/media/ddisco_b_001_1.jpg": "/ddisco/static/media/ddisco_b_001_1.ed9d9c7f.jpg",
     "static/media/ddisco_b_001_2.jpg": "/ddisco/static/media/ddisco_b_001_2.8a65b207.jpg",
     "static/media/ddisco_b_001_3.jpg": "/ddisco/static/media/ddisco_b_001_3.814cd6f3.jpg",
@@ -128,8 +128,8 @@
   "entrypoints": [
     "static/js/runtime-main.bbf2b7c5.js",
     "static/css/2.a10018f7.chunk.css",
-    "static/js/2.737240c4.chunk.js",
-    "static/css/main.58f48cda.chunk.css",
-    "static/js/main.39ba1165.chunk.js"
+    "static/js/2.e1acf7ff.chunk.js",
+    "static/css/main.5290ae74.chunk.css",
+    "static/js/main.722d034b.chunk.js"
   ]
 }
