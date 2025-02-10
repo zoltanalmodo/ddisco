@@ -16,6 +16,7 @@
     "react-alice-carousel": "^1.19.3",
     "react-dom": "^17.0.1",
     "react-router-dom": "^6.27.0",
+    // before rect scrips update
     "react-scripts": "^3.0.1",
     "web-vitals": "^0.2.4"
   },
