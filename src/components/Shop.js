@@ -126,42 +126,42 @@ export const Shop = () => {
   const {
 
     globalState,
-    setSelectedSizeSmall,
-    setSelectedSizeMedium,
-    setSelectedSizeLarge,
+    // setSelectedSizeSmall,
+    // setSelectedSizeMedium,
+    // setSelectedSizeLarge,
 
   } = useContext(GlobalContext);
 
-  const activeBackgroundSizesSmall = () => {
-    return(
-      globalState.selectedSize === 'small' ? 'black' : 'white'
-    )
-  }
-  const activeColorSizesSmall = () => {
-    return(
-      globalState.selectedSize === 'small' ? 'white' : 'black'
-    )
-  }
-  const activeBackgroundSizesMedium = () => {
-    return(
-      globalState.selectedSize === 'medium' ? 'black' : 'white'
-    )
-  }
-  const activeColorSizesMedium = () => {
-    return(
-      globalState.selectedSize === 'medium' ? 'white' : 'black'
-    )
-  }
-  const activeBackgroundSizesLarge = () => {
-    return(
-      globalState.selectedSize === 'large' ? 'black' : 'white'
-    )
-  }
-  const activeColorSizesLarge = () => {
-    return(
-      globalState.selectedSize === 'large' ? 'white' : 'black'
-    )
-  }
+  // const activeBackgroundSizesSmall = () => {
+  //   return(
+  //     globalState.selectedSize === 'small' ? 'black' : 'white'
+  //   )
+  // }
+  // const activeColorSizesSmall = () => {
+  //   return(
+  //     globalState.selectedSize === 'small' ? 'white' : 'black'
+  //   )
+  // }
+  // const activeBackgroundSizesMedium = () => {
+  //   return(
+  //     globalState.selectedSize === 'medium' ? 'black' : 'white'
+  //   )
+  // }
+  // const activeColorSizesMedium = () => {
+  //   return(
+  //     globalState.selectedSize === 'medium' ? 'white' : 'black'
+  //   )
+  // }
+  // const activeBackgroundSizesLarge = () => {
+  //   return(
+  //     globalState.selectedSize === 'large' ? 'black' : 'white'
+  //   )
+  // }
+  // const activeColorSizesLarge = () => {
+  //   return(
+  //     globalState.selectedSize === 'large' ? 'white' : 'black'
+  //   )
+  // }
 
 
   window.galleryItems_black_001 = [
