@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0520180104eb95740ef1266cf8d4f97",
+    "revision": "1b155a3cccdc109fdba022bf045ca2af",
     "url": "/ddisco/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ddisco/static/css/2.55d5623b.chunk.css"
   },
   {
-    "revision": "764fd4088b599affc839",
+    "revision": "9c38d5b329ab71e81104",
     "url": "/ddisco/static/css/main.dd6779a7.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ddisco/static/js/3.fe3b4cb1.chunk.js"
   },
   {
-    "revision": "764fd4088b599affc839",
-    "url": "/ddisco/static/js/main.f3281eec.chunk.js"
+    "revision": "9c38d5b329ab71e81104",
+    "url": "/ddisco/static/js/main.bf02d535.chunk.js"
   },
   {
     "revision": "7362b5a2f0a9c05957e2",
