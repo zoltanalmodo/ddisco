@@ -359,7 +359,7 @@ globalState.previousActiveButton === "black" ? "black" : "white";
 
         <div className="sizes_container">
 
-          <div className="size_button_container">
+          {/* <div className="size_button_container">
             <button
               className="size_button"
               onClick={setSelectedSizeSmall}
@@ -390,7 +390,7 @@ globalState.previousActiveButton === "black" ? "black" : "white";
                 color: activeColorSizesLarge()
               }}>large
             </button>
-          </div>
+          </div> */}
 
           <FormValidation />
 
